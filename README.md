@@ -1,5 +1,5 @@
  
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&text=Hello%World!&color=auto)
+
 
 ### <div align="center">I'm Hyunjoo who dreams of becoming a developer.🚀</div>  
   
