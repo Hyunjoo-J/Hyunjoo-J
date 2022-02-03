@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Java, C, Backend, etc.  
   
 
-- ❓ Ask me about anything! 
+- ❓ Ask me anything! 
   
 
 <br/>  
