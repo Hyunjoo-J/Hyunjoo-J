@@ -1,7 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+ 
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&text=Hello%World!&color=auto)
 
 ### <div align="center">I'm Hyunjoo who dreams of becoming a developer.🚀</div>  
   
@@ -12,44 +10,11 @@
 - 🌱 I’m currently learning Java, C, Backend, etc.  
   
 
-- ❓ Ask me about anything!  
-  
-
-- ⚡ Fun fact: My major is mathematics.  
+- ❓ Ask me about anything! 
   
 
 <br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
+ 
 
 
 ## Connect with me  
