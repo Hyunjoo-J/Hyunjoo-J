@@ -4,7 +4,7 @@
 ### <div align="center">I'm Hyunjoo who dreams of becoming a developer.🚀</div>  
   
 
-- 🔭 I’m currently studying at SSU.  
+- 🔭 I’m currently graduated from SSU.  
   
 
 - 🌱 I’m currently learning Java, C, Backend, etc.  
