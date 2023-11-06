@@ -16,4 +16,4 @@
 
 
 
-✨  [PORTFOLIO]<a href="https://holly-furniture-755.notion.site/7b51deee8a7344deb798c0db8e80e361?pvs=4">포트폴리오</a>
+✨  [PORTFOLIO]<a href="https://portfoliojoenghj.notion.site/01a541a16a5d45938bbf029fc15ea3ef?pvs=4">포트폴리오</a>
