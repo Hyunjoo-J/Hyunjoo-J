@@ -1,58 +1,19 @@
- 
+## *Backend Develper*, 꾸준히 성장하는 개발자
+![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)
+![](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-### <div align="center">I'm Hyunjoo who dreams of becoming a developer.🚀</div>  
-  
-
-- 🔭 I’m currently graduated from SSU.  
-  
-
-- 🌱 I’m currently learning Java, C, Backend, etc.  
-  
-
-- ❓ Ask me anything! 
-  
-
-<br/>  
- 
+* **Soongsil University** <I>2018.03 ~ 2023.08</I>
+* **Major - Mathematics, Department of Computer Science**
+* **SSAFY 10기** <I>2023.07 ~ </I> 
+* **42 seoul** <I>2021.02 ~ 2022.09</I> 
 
 
-## Connect with me  
-<div align="center">
-<a href="https://instagram.com/hyunjoo_99" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/Hyunjoo-J" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hyunjoo-J&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-  
-
-<br/>  
-
-<details></details>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Hyunjoo-J&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+✨  [RESUME]<a href="https://holly-furniture-755.notion.site/7b51deee8a7344deb798c0db8e80e361?pvs=4">포트폴리오</a>
