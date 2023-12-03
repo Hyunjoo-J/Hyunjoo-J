@@ -16,5 +16,5 @@
 
 
 
-✨  [PORTFOLIO]<a href="https://portfoliojoenghj.notion.site/01a541a16a5d45938bbf029fc15ea3ef?pvs=4">포트폴리오</a>
+✨  [PORTFOLIO]<a href="https://portfoliojoenghj.notion.site/01a541a16a5d45938bbf029fc15ea3ef?pvs=4">포트폴리오</a></br>
 ✈️  [Project]<a href="https://github.com/HyeongtaekOh/AdventureJourney">AdventureJourney</a>
