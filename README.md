@@ -16,4 +16,4 @@
 
 
 
-✈️  [Project]<a href="(https://github.com/Hyunjoo-J/AdventureJourney)https://github.com/Hyunjoo-J/AdventureJourney">AdventureJourney</a>
+✈️  [Project]<a href="https://github.com/Hyunjoo-J/AdventureJourney">AdventureJourney</a>
